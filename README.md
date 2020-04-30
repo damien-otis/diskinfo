@@ -23,4 +23,4 @@ usage
   
     });
 
-![alt tag](https://dmtmix.com/dnetAPI/getImage/00000000/color.webp)
+![alt tag](https://dmtmix.com/dnetAPI/getImage/ff0000ff/color.webp)
